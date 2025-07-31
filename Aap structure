@@ -1,0 +1,5 @@
+AI-Fusion-Hub-App/
+├── App.js
+├── components/
+│   └── ChatMessage.js
+└── package.json
